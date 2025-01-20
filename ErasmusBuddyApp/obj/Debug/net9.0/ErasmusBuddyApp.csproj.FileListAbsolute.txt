@@ -1,0 +1,15 @@
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\bin\Debug\net9.0\ErasmusBuddyApp.exe
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\bin\Debug\net9.0\ErasmusBuddyApp.deps.json
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\bin\Debug\net9.0\ErasmusBuddyApp.runtimeconfig.json
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\bin\Debug\net9.0\ErasmusBuddyApp.dll
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\bin\Debug\net9.0\ErasmusBuddyApp.pdb
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\obj\Debug\net9.0\ErasmusBuddyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\obj\Debug\net9.0\ErasmusBuddyApp.AssemblyInfoInputs.cache
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\obj\Debug\net9.0\ErasmusBuddyApp.AssemblyInfo.cs
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\obj\Debug\net9.0\ErasmusBuddyApp.csproj.CoreCompileInputs.cache
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\obj\Debug\net9.0\ErasmusBuddyApp.sourcelink.json
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\obj\Debug\net9.0\ErasmusBuddyApp.dll
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\obj\Debug\net9.0\refint\ErasmusBuddyApp.dll
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\obj\Debug\net9.0\ErasmusBuddyApp.pdb
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\obj\Debug\net9.0\ErasmusBuddyApp.genruntimeconfig.cache
+C:\Users\stri\Documents\HTW\Programming\ErasmusBuddyApp\obj\Debug\net9.0\ref\ErasmusBuddyApp.dll
